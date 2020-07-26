@@ -1,0 +1,8 @@
+libraries used
+pandas
+numpy
+scipy
+seaborn
+matoplotlib
+tkinter
+
