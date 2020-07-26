@@ -1,4 +1,4 @@
-libraries used
+# libraries used
 pandas
 numpy
 scipy
@@ -6,3 +6,8 @@ seaborn
 matoplotlib
 tkinter
 
+# how to Run---
+1) Install all the above Dependencies. 
+2) copy the Datastats.py file 
+3) paste in in your favourite IDE (pycharm/ Spyder/ or Jupyter).
+4) Run
