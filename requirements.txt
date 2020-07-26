@@ -11,3 +11,9 @@ tkinter
 2) copy the Datastats.py file 
 3) paste in in your favourite IDE (pycharm/ Spyder/ or Jupyter).
 4) Run
+5) most your results will be appear in your IDE Terminal.
+
+
+# pros
+1) works best when all the columns has numeric data
+
