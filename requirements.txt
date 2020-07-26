@@ -17,3 +17,5 @@ tkinter
 # pros
 1) works best when all the columns has numeric data
 
+# cons
+2) not much useful when we have many catagorial variables, as we can't apply Mathmatical Operations (Addition,Multiplication,Subtraction,Division) in the GUI.
