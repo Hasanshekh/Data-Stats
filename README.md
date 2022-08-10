@@ -1,7 +1,7 @@
 # Data-Stats
 The Aim of this Project “Data Stats” is to automate the process of taking out the stats from Data (currently this project is only supporting csv files).
 anyone can easily generate statistical reports from the dataset in just few clicks.
-Right now users, upload their CSV files and do some Stastical calculations on clicks.
+Right now, users can upload their CSV files and do some Stastical calculations on clicks.
 
 This software program has six buttons on his front panel:
  
